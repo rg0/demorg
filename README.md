@@ -1,4 +1,4 @@
-# Configure push mirroring
+# Configure push mirroring from gitlab to github
 
 To set up push mirroring for an existing project:
 
